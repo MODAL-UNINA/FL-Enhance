@@ -11,6 +11,6 @@
 ### FL-Enhance framework
 
 <figure>
-  <img src="path/to/your/image.png" alt="Figure description">
+  <img src="https://github.com/MODAL-UNINA/FL-Enhance/blob/main/framework.jpg?raw=true" >
   <figcaption>Figure Caption</figcaption>
 </figure>
