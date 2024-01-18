@@ -17,4 +17,4 @@
 
 ## Acknowledgments
 
-This work has been designed and developed under the “PONRicerca e Innovazione 2014-2020”—Dottorati innovativi concaratterizzazione industriale XXXVI Ciclo, Fondo per loSviluppo e la Coesione, code DOT1318347, CUPE63D20002530006.
+This work has been designed and developed under the “PON Ricerca e Innovazione 2014-2020” — Dottorati innovativi con caratterizzazione industriale XXXVI Ciclo, Fondo per lo Sviluppo e la Coesione, code DOT1318347, CUPE63D20002530006.
